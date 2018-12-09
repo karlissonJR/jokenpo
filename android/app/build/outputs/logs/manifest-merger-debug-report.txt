@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2b93017e2e3e3d3cdc506a235fe8d4c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8631f96e14814c07fdb7ff8ff05b67ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4a994111b3f3164eba3d795ea89a880c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9922969c038bb7899f1578c2a40e05c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/99cb4b08cdc4ff1fac33f0dc39889be6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8d24cd854eeb58227cfc290a20899f30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/daa4deabc7964469c9fc9ca19edda3b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4868a662d50d398f4cf14949fd3f6713/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d4cb64a6369bbe373aa8b36330058455/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9c3c6c52673bb1eae91afc31e2558d8f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/bdf37ccfafd5724d3104fdf0107f1070/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a390bd28bd66c17cf98b14d76b12d3bf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b812f6c9edb479ce40bbe19e8e13b30c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/karlisson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/46a3c185f71aa3d0d3a80b25d2944727/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5d62af4e5e96d22d2df06b4618a17dc7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a624426861deb740a3ea38dc1928a0f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5c45e4e8c71b7ced02da97f82084c2a5/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5b58d7421db9ab2ed587b1ee3f998b7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e71fda1d603daf90d83d82cb6436a4ff/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b812f6c9edb479ce40bbe19e8e13b30c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b812f6c9edb479ce40bbe19e8e13b30c/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/karlisson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/46a3c185f71aa3d0d3a80b25d2944727/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/karlisson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/46a3c185f71aa3d0d3a80b25d2944727/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.jokenpo.MainActivity
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /home/karlisson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/2a9f1af4605550f57006f9f458fc1beb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2b93017e2e3e3d3cdc506a235fe8d4c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2b93017e2e3e3d3cdc506a235fe8d4c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8631f96e14814c07fdb7ff8ff05b67ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8631f96e14814c07fdb7ff8ff05b67ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4a994111b3f3164eba3d795ea89a880c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4a994111b3f3164eba3d795ea89a880c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9922969c038bb7899f1578c2a40e05c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9922969c038bb7899f1578c2a40e05c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/99cb4b08cdc4ff1fac33f0dc39889be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/99cb4b08cdc4ff1fac33f0dc39889be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8d24cd854eeb58227cfc290a20899f30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8d24cd854eeb58227cfc290a20899f30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/daa4deabc7964469c9fc9ca19edda3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/daa4deabc7964469c9fc9ca19edda3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4868a662d50d398f4cf14949fd3f6713/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4868a662d50d398f4cf14949fd3f6713/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d4cb64a6369bbe373aa8b36330058455/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d4cb64a6369bbe373aa8b36330058455/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9c3c6c52673bb1eae91afc31e2558d8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9c3c6c52673bb1eae91afc31e2558d8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/bdf37ccfafd5724d3104fdf0107f1070/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/bdf37ccfafd5724d3104fdf0107f1070/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a390bd28bd66c17cf98b14d76b12d3bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a390bd28bd66c17cf98b14d76b12d3bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b812f6c9edb479ce40bbe19e8e13b30c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/karlisson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b812f6c9edb479ce40bbe19e8e13b30c/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5d62af4e5e96d22d2df06b4618a17dc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5d62af4e5e96d22d2df06b4618a17dc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a624426861deb740a3ea38dc1928a0f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a624426861deb740a3ea38dc1928a0f0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5c45e4e8c71b7ced02da97f82084c2a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5c45e4e8c71b7ced02da97f82084c2a5/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5b58d7421db9ab2ed587b1ee3f998b7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5b58d7421db9ab2ed587b1ee3f998b7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e71fda1d603daf90d83d82cb6436a4ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/karlisson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e71fda1d603daf90d83d82cb6436a4ff/AndroidManifest.xml:20:5-44
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/karlisson/react_native/jokenpo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
